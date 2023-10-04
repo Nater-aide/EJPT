@@ -4,5 +4,4 @@ Notes and commands cheat sheet for the EJPT
 
 SMBMap
 
-_smbmap -u <username> -p <password> -H <IP address>
-_
+*smbmap -u <username> -p <password> -H <IP address>*
