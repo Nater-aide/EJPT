@@ -20,4 +20,5 @@ SSH - Getting SSH host key using Nmap
 Save the host key for later
 
 Brute Forcing SSH with Hydra
+
 ```hydra -L (username) -P (password list) (IP address) ssh```
