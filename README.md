@@ -13,3 +13,8 @@ Downloading file using SMB Map
 Brute forcing FTP using Hydra
 
 ```hydra -L (Username list) -P (Password list) (IP Address) ftp```
+
+SSH - Getting SSH host key using Nmap
+
+```nmap (IPaddress) -p 22 --script-args ssh_hostkey=full```
+Save the host key for later
