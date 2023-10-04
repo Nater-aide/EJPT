@@ -18,3 +18,6 @@ SSH - Getting SSH host key using Nmap
 
 ```nmap (IPaddress) -p 22 --script-args ssh_hostkey=full```
 Save the host key for later
+
+Brute Forcing SSH with Hydra
+```hydra -L (username) -P (password list) (IP address) ssh```
