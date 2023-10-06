@@ -26,3 +26,13 @@ Brute Forcing SSH with Hydra
 Brute Forcing SSH login with Metasploit
 
 ```Use ssh/ssh_login```
+
+MYSQL
+
+Logging into Mysql on remote host
+
+```mysql -h (IP address) -u root```
+
+Seeing database
+
+```show databases ---then type semicolon```
