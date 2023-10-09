@@ -41,7 +41,7 @@ Using database
 
 ```select count(*) from authors;```
 
-``select * from authors```
+```select * from authors```
 
 **RPCClient
 **
