@@ -27,15 +27,21 @@ Brute Forcing SSH login with Metasploit
 
 ```Use ssh/ssh_login```
 
-MYSQL
+**MYSQL**
 
 Logging into Mysql on remote host
 
 ```mysql -h (IP address) -u root```
 
-Seeing database
+Using database
 
 ```show databases ---then type semicolon```
+
+```use (database name);```
+
+```select count(*) from authors;```
+
+``select * from authors```
 
 RPCClient
 
