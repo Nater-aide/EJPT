@@ -36,3 +36,10 @@ Logging into Mysql on remote host
 Seeing database
 
 ```show databases ---then type semicolon```
+
+RPCClient
+
+```rpcclient -U "" -N 192.168.0.0```
+Useful commanands within
+Enumdomusers
+Lookupnames -- example lookupnames admin
