@@ -46,3 +46,23 @@ Executing a command
 
 ```nmap (IPaddress) -p 22 --script-args ssh_hostkey=full```
 Save the host key for later
+
+**Metasploit**
+
+Module: Auxiliary/scanner/smb/smb_enumshares -- enumerates shares
+
+Auxiliary/scanner/smb/smb_login -- dictionary attack
+
+**RPCClient**
+
+```rpcclient -U "" -N 192.168.0.0```
+
+Useful commanands within
+- Enumdomusers
+- Lookupnames -- example lookupnames admin
+
+**Connecting to SMB share**
+
+smbclient //(IP Address)/(folder you found) -N
+
+get command -- Getting file
