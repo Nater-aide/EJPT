@@ -1,4 +1,4 @@
-**MYSQL**
+# **MYSQL**
 
 Logging into Mysql on remote host
 
@@ -26,13 +26,25 @@ Getting the full etc/shadow file
 
 ```select load_file("/etc/shadow");```
 
+### Metasploit
+
 Dictionary attack against Mysql
 
-Use Metasploit -- auxiliary/scanner/mysql/mysql_login
+Login Module -- auxiliary/scanner/mysql/mysql_login
+
+User File -- /usr/share/metasploit-framework/data/wordlists/common_users.txt
 
 Password File -- /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt
 
-**MSSQL**
+Login Modules -- auxiliary/scanner/mysql/mysql_enum
+
+SQL logins Module -- auxiliary/scanner/mysql/mysql_enum_sql_logins
+
+Execute commands -- Login Module -- auxiliary/scanner/mysql_exec
+
+Enumerate domain accounts -- Login Module -- auxiliary/scanner/mysql/mysql_enum_domain_accounts
+
+# **MSSQL**
 
 Nmap scripts
 
