@@ -9,4 +9,5 @@
 ## Host & Network Pentesting  
 
 [WebDav](https://github.com/Nater-aide/EJPT/blob/main/Webdav.md)  
-[SMB](https://github.com/Nater-aide/EJPT/blob/main/SMB_Exploit.MD)
+[SMB](https://github.com/Nater-aide/EJPT/blob/main/SMB_Exploit.MD)  
+[RDP](https://github.com/Nater-aide/EJPT/blob/main/RDP.md)
