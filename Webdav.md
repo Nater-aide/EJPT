@@ -7,7 +7,7 @@ Step 2: Brute Force attack on the server to identify credentials we can use
 Step 3: Authenticate and upload malicious .asp payload  
 
 ## **Tools**  
-Davtest - Scan, authenticate, and exploit WEbdav server 
+Davtest - Scan, authenticate, and exploit WEbdav server  
 Cadaver - supports download, upload, onscreen display, in place editing, etc
 
 **Brute Force username and password**  
