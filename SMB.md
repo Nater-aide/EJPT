@@ -1,24 +1,5 @@
-**NMAP scripts**
 
-```nmap -p445 --script smb-protocols (IP Address)```
-
-```nmap -p445 --script smb-security-mode (IP Address)```
-
-```nmap -p445 --script smb-enum-sessions (IP Address)```
-
-```nmap -p445 --script smb-enum-shares (IP Address)```
-
-```nmap -p445 --script smb-enum-domains (IP Address)```
-
-```nmap -p445 --script smb-enum-groups (IP Address)```
-
-```nmap -p445 --script smb-enum-services (IP Address)```
-
-```nmap -p445 --script smb-enum-shares,smb-ls --script-args smbusername=(username),smbpassword=(password) (IP Address)```
-
-IPC$ is useful. It is an anonymous session. It allows guest access.
-
-**SMBMap**
+## SMBMap
 
 Show permissions for user
 
@@ -47,13 +28,14 @@ Executing a command
 ```nmap (IPaddress) -p 22 --script-args ssh_hostkey=full```
 Save the host key for later
 
-**Metasploit**
+## Metasploit
 
 Module: Auxiliary/scanner/smb/smb_enumshares -- enumerates shares
 
 Auxiliary/scanner/smb/smb_login -- dictionary attack
 
-**RPCClient**
+
+## RPCClient
 
 ```rpcclient -U "" -N 192.168.0.0```
 
@@ -61,8 +43,28 @@ Useful commanands within
 - Enumdomusers
 - Lookupnames -- example lookupnames admin
 
-**Connecting to SMB share**
+## Connecting to SMB share
 
 smbclient //(IP Address)/(folder you found) -N
 
 get command -- Getting file
+
+### SMB NMAP scripts
+
+```nmap -p445 --script smb-protocols (IP Address)```
+
+```nmap -p445 --script smb-security-mode (IP Address)```
+
+```nmap -p445 --script smb-enum-sessions (IP Address)```
+
+```nmap -p445 --script smb-enum-shares (IP Address)```
+
+```nmap -p445 --script smb-enum-domains (IP Address)```
+
+```nmap -p445 --script smb-enum-groups (IP Address)```
+
+```nmap -p445 --script smb-enum-services (IP Address)```
+
+```nmap -p445 --script smb-enum-shares,smb-ls --script-args smbusername=(username),smbpassword=(password) (IP Address)```
+
+IPC$ is useful. It is an anonymous session. It allows guest access.
