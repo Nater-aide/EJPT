@@ -9,6 +9,6 @@
 ## Host & Network Pentesting  
 
 [WebDav](https://github.com/Nater-aide/EJPT/blob/main/Webdav.md)  
-[SMB](https://github.com/Nater-aide/EJPT/blob/main/SMB_Exploit.MD)  
-[RDP](https://github.com/Nater-aide/EJPT/blob/main/RDP.md)
-[WinRM](https://github.com/Nater-aide/EJPT/blob/main/WinRM.md)
+[Server Message Block -- SMB](https://github.com/Nater-aide/EJPT/blob/main/SMB_Exploit.MD)  
+[Remote Desktop Protocol -- RDP](https://github.com/Nater-aide/EJPT/blob/main/RDP.md)  
+[Windows Remote Management -- WinRM](https://github.com/Nater-aide/EJPT/blob/main/WinRM.md)
