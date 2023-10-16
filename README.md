@@ -11,4 +11,5 @@
 [WebDav](https://github.com/Nater-aide/EJPT/blob/main/Notes/Webdav.md)  
 [SMB -- Server Message Block](https://github.com/Nater-aide/EJPT/blob/main/Notes/SMB_Exploit.md)  
 [RDP -- Remote Desktop Protocol](https://github.com/Nater-aide/EJPT/blob/main/Notes/RDP.md)  
-[WinRM -- Windows Remote Management](https://github.com/Nater-aide/EJPT/blob/main/Notes/WinRM.md)
+[WinRM -- Windows Remote Management](https://github.com/Nater-aide/EJPT/blob/main/Notes/WinRM.md)  
+[Windows Kernel Exploitation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Windows_Kernel_exploits.md)
