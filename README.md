@@ -16,3 +16,12 @@
 ### Windows Privilege escalation
 [Windows Kernel Exploitation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Windows_Kernel_exploits.md)  
 [Bypassing UAC](https://github.com/Nater-aide/EJPT/blob/main/Notes/Bypassing_UACs.md)
+[Alternative Data Streams](https://github.com/Nater-aide/EJPT/blob/main/Notes/AlternateDataStreams.md)
+
+
+
+
+
+### Miscellaneous
+[Windows password hashes](https://github.com/Nater-aide/EJPT/blob/main/Notes/WindowsPasswordHashes.md)  
+[Brute Forcing passwords](https://github.com/Nater-aide/EJPT/blob/main/Notes/Brute%20force%20password.MD)
