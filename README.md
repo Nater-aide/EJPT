@@ -14,5 +14,5 @@
 [WinRM -- Windows Remote Management](https://github.com/Nater-aide/EJPT/blob/main/Notes/WinRM.md)  
 
 ### Windows Privilege escalation
-[Windows Kernel Exploitation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Windows_Kernel_exploits.md)
-[Bypassing UAC]
+[Windows Kernel Exploitation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Windows_Kernel_exploits.md)  
+[Bypassing UAC](https://github.com/Nater-aide/EJPT/blob/main/Notes/Bypassing_UACs.md)
