@@ -15,9 +15,9 @@
 
 ### Windows Privilege escalation
 [Windows Kernel Exploitation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Windows_Kernel_exploits.md)  
-[Bypassing UAC](https://github.com/Nater-aide/EJPT/blob/main/Notes/Bypassing_UACs.md)
-[Alternative Data Streams](https://github.com/Nater-aide/EJPT/blob/main/Notes/AlternateDataStreams.md)
-
+[Bypassing UAC](https://github.com/Nater-aide/EJPT/blob/main/Notes/Bypassing_UACs.md)  
+[Alternative Data Streams](https://github.com/Nater-aide/EJPT/blob/main/Notes/AlternateDataStreams.md)  
+[Access Token Impersonation](https://github.com/Nater-aide/EJPT/blob/main/Notes/AccessTokenImpersonation.md)  
 
 
 
