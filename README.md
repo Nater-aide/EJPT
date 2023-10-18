@@ -19,9 +19,12 @@
 [Alternative Data Streams](https://github.com/Nater-aide/EJPT/blob/main/Notes/AlternateDataStreams.md)  
 [Access Token Impersonation](https://github.com/Nater-aide/EJPT/blob/main/Notes/AccessTokenImpersonation.md)  
 
+### Windows Credential Dumping
+[Windows password hashes](https://github.com/Nater-aide/EJPT/blob/main/Notes/WindowsPasswordHashes.md)  
+[Searching for passwords in windows configuration files](https://github.com/Nater-aide/EJPT/blob/main/Notes/Searching_passwords.md#searching-for-passwords-in-windows-configuration-files)
+
 
 
 
 ### Miscellaneous
-[Windows password hashes](https://github.com/Nater-aide/EJPT/blob/main/Notes/WindowsPasswordHashes.md)  
 [Brute Forcing passwords](https://github.com/Nater-aide/EJPT/blob/main/Notes/Brute%20force%20password.MD)
