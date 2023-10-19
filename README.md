@@ -25,6 +25,6 @@
 [Dumping hashes with MimiKatz](https://github.com/Nater-aide/EJPT/blob/main/Notes/MimiKatz.md)  
 
 ### Miscellaneous
-[FTP and SSH](https://github.com/Nater-aide/EJPT/blob/main/Notes/FTPandSSH.md)
+[FTP and SSH](https://github.com/Nater-aide/EJPT/blob/main/Notes/FTPandSSH.md)  
 [Pass the Hash](https://github.com/Nater-aide/EJPT/blob/main/Notes/PasstheHash.md)  
 [ShellShock](https://github.com/Nater-aide/EJPT/blob/main/Notes/Shellshock.md)  
