@@ -25,4 +25,5 @@
 [Dumping hashes with MimiKatz](https://github.com/Nater-aide/EJPT/blob/main/Notes/MimiKatz.md)  
 
 ### Miscellaneous
-[Brute Forcing passwords](https://github.com/Nater-aide/EJPT/blob/main/Notes/Brute%20force%20password.MD)
+[Brute Forcing passwords](https://github.com/Nater-aide/EJPT/blob/main/Notes/Brute%20force%20password.MD)  
+[Pass the Hash](https://github.com/Nater-aide/EJPT/blob/main/Notes/PasstheHash.md)
