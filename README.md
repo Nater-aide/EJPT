@@ -21,10 +21,8 @@
 
 ### Windows Credential Dumping
 [Windows password hashes](https://github.com/Nater-aide/EJPT/blob/main/Notes/WindowsPasswordHashes.md)  
-[Searching for passwords in windows configuration files](https://github.com/Nater-aide/EJPT/blob/main/Notes/Searching_passwords.md#searching-for-passwords-in-windows-configuration-files)
-
-
-
+[Searching for passwords in windows configuration files](https://github.com/Nater-aide/EJPT/blob/main/Notes/Searching_passwords.md#searching-for-passwords-in-windows-configuration-files)  
+[Dumping hashes with MimiKatz](https://github.com/Nater-aide/EJPT/blob/main/Notes/MimiKatz.md)  
 
 ### Miscellaneous
 [Brute Forcing passwords](https://github.com/Nater-aide/EJPT/blob/main/Notes/Brute%20force%20password.MD)
