@@ -26,4 +26,5 @@
 
 ### Miscellaneous
 [Brute Forcing passwords](https://github.com/Nater-aide/EJPT/blob/main/Notes/Brute%20force%20password.MD)  
-[Pass the Hash](https://github.com/Nater-aide/EJPT/blob/main/Notes/PasstheHash.md)
+[Pass the Hash](https://github.com/Nater-aide/EJPT/blob/main/Notes/PasstheHash.md)  
+[ShellShock](https://github.com/Nater-aide/EJPT/blob/main/Notes/Shellshock.md)  
