@@ -31,4 +31,5 @@
 
 ### Exploiting Linux Vulnerabilities
 
-[Linux Kernet Exploitation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Linux_kernel_exploitation.md)
+[Linux Kernet Exploitation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Linux_kernel_exploitation.md)  
+[Misconfigured Cron Jobs](https://github.com/Nater-aide/EJPT/blob/main/Notes/Misconfigured_Cron_Jobs.md)  
