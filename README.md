@@ -6,7 +6,7 @@
 [SMB](https://github.com/Nater-aide/EJPT/blob/main/Notes/SMB.md)  
 [MYSQL/MSSQL](https://github.com/Nater-aide/EJPT/blob/main/Notes/MYSQL.md)
 
-## Host & Network Pentesting  
+## System/Host Based Attacks  
 ### Exploiting Windows vulnerabilities
 [WebDav](https://github.com/Nater-aide/EJPT/blob/main/Notes/Webdav.md)  
 [SMB -- Server Message Block](https://github.com/Nater-aide/EJPT/blob/main/Notes/SMB_Exploit.md)  
@@ -35,3 +35,6 @@
 [Misconfigured Cron Jobs](https://github.com/Nater-aide/EJPT/blob/main/Notes/Misconfigured_Cron_Jobs.md)  
 [Expoiting SUID Binaries](https://github.com/Nater-aide/EJPT/blob/main/Notes/SUID_Binaries.md)  
 [Password Cracking in Linux](https://github.com/Nater-aide/EJPT/blob/main/Notes/Cracking_Hashes.md)  
+
+## The Metasploit Framework
+
