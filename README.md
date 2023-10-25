@@ -40,6 +40,6 @@
 
 [Metasploit](https://github.com/Nater-aide/EJPT/blob/main/Notes/Metasploit.md)  
 [Workspaces](https://github.com/Nater-aide/EJPT/blob/main/Notes/WorkSpaces.md)  
-[Exporting Nmap Results to Metasploit](https://github.com/Nater-aide/EJPT/blob/main/Notes/NmaptoMetasploit.md)
+[Exporting Nmap Results to Metasploit](https://github.com/Nater-aide/EJPT/blob/main/Notes/NmaptoMetasploit.md)  
 [Port scanning with auxiliary modules](https://github.com/Nater-aide/EJPT/blob/main/Notes/MSFportscan.md)  
 
