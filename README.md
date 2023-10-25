@@ -40,4 +40,5 @@
 
 [Metasploit](https://github.com/Nater-aide/EJPT/blob/main/Notes/Metasploit.md)  
 [Workspaces](https://github.com/Nater-aide/EJPT/blob/main/Notes/WorkSpaces.md)  
+[Port scanning with auxiliary modules](https://github.com/Nater-aide/EJPT/blob/main/Notes/MSFportscan.md)  
 
