@@ -1,4 +1,3 @@
-
 ## SMBMap
 
 Show permissions for user  
@@ -16,9 +15,10 @@ Executing a command
 ## Metasploit
 
 **Modules**:  
-Auxiliary/scanner/smb/smb_enumshares -- enumerates shares  
-Auxiliary/scanner/smb/smb_login -- dictionary attack
-
+**Auxiliary/scanner/smb/smb_enumshares** -- enumerates shares  
+**Auxiliary/scanner/smb/smb_login** -- dictionary attack you can use against SMB  
+**Auxiliary/scanner/smb/smb_version** -- Checks SMB Version
+**Auxiliary/scanner/smb/smb_enumusers** -- enumerate SMB users
 
 ## RPCClient
 
