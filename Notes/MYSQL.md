@@ -1,6 +1,7 @@
 # **MYSQL**
 
-Logging into Mysql on remote host -- ```mysql -h (IP address) -u root```
+Default port: 3306  
+Logging into Mysql on remote host -- ```mysql -h (IP address) -u root -p (password)```
 
 **Using database**  
 ```show databases ---then type semicolon```  
@@ -13,15 +14,23 @@ Metasploit Module -- scanner/mysql/mysql_writable_dirs
 Finding hashes  -- ```use auxiliary/scanner/mysql/mysql_hashdump```  
 Getting the full etc/shadow file -- ```select load_file("/etc/shadow");```
 
-### Metasploit
-Dictionary attack against Mysql  
-**Login Module** -- auxiliary/scanner/mysql/mysql_login
+### Metasploit  
+#### Modules 
+- **auxiliary/scanner/mysql/mysql_version** -- Find Mysql Version
+- **auxiliary/scanner/mysql/mysql_login** -- Used for brute force logins. Set PASS_FILE
+- **auxiliary/admin/mysql/mysql_enum** -- TO use this, we require credentials
+- **auxiliary/admin/mysql/mysql_sql - MOST IMPORTANT** -- allows us to execute SQL queries
+  - example queries.
+    - show databases; - displays list of all databases
+    - use (database name); - sents statement
+- **auxiliary/scanner/mysql/mysql_schemadump** -- get a schema of the mysql environment
+- **auxiliary/scanner/mysql/mysql_file_enum** --
+- **auxiliary/scanner/mysql/mysql_hashdump** --
+- **auxiliary/scanner/mysql/mysql_writable_dirs** --
 
 User File -- /usr/share/metasploit-framework/data/wordlists/common_users.txt  
 Password File -- /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt  
-
-**Login Module**-- auxiliary/scanner/mysql/mysql_enum  
-**SQL logins Module** -- auxiliary/scanner/mysql/mysql_enum_sql_logins
+ 
 Execute commands -- Login Module -- auxiliary/scanner/mysql_exec  
 Enumerate domain accounts -- Login Module -- auxiliary/scanner/mysql/mysql_enum_domain_accounts
 
