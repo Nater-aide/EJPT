@@ -1,11 +1,6 @@
 # EJPT
 ##Notes and commands cheat sheet for the EJPT##
 
-## Enumerating
-
-[SMB](https://github.com/Nater-aide/EJPT/blob/main/Notes/SMB.md)  
-[MYSQL/MSSQL](https://github.com/Nater-aide/EJPT/blob/main/Notes/MYSQL.md)
-
 ## System/Host Based Attacks  
 ### Exploiting Windows vulnerabilities
 [WebDav](https://github.com/Nater-aide/EJPT/blob/main/Notes/Webdav.md)  
@@ -40,6 +35,10 @@
 
 [Metasploit](https://github.com/Nater-aide/EJPT/blob/main/Notes/Metasploit.md)  
 [Workspaces](https://github.com/Nater-aide/EJPT/blob/main/Notes/WorkSpaces.md)  
+### Enumeration
 [Exporting Nmap Results to Metasploit](https://github.com/Nater-aide/EJPT/blob/main/Notes/NmaptoMetasploit.md)  
 [Port scanning with auxiliary modules](https://github.com/Nater-aide/EJPT/blob/main/Notes/MSFportscan.md)  
 [FTP Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/FTP_Enumeration.md)  
+[SMB](https://github.com/Nater-aide/EJPT/blob/main/Notes/SMB.md)  
+[MYSQL/MSSQL](https://github.com/Nater-aide/EJPT/blob/main/Notes/MYSQL.md)  
+[Web Server Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/WebServerEnum.md)  
