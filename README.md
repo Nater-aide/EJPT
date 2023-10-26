@@ -42,3 +42,5 @@
 [SMB](https://github.com/Nater-aide/EJPT/blob/main/Notes/SMB.md)  
 [MYSQL/MSSQL](https://github.com/Nater-aide/EJPT/blob/main/Notes/MYSQL.md)  
 [Web Server Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/WebServerEnum.md)  
+[SSH and SMTP](https://github.com/Nater-aide/EJPT/blob/main/Notes/ssh_SMTP_enum.md)  
+### Vulnerability Scanning
