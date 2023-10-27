@@ -44,3 +44,5 @@
 [Web Server Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/WebServerEnum.md)  
 [SSH and SMTP](https://github.com/Nater-aide/EJPT/blob/main/Notes/ssh_SMTP_enum.md)  
 ### Vulnerability Scanning
+
+[Nessus](https://github.com/Nater-aide/EJPT/blob/main/Notes/Nessus.md)
