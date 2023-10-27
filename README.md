@@ -47,3 +47,5 @@
 
 [Nessus](https://github.com/Nater-aide/EJPT/blob/main/Notes/Nessus.md)  
 [WMAP](https://github.com/Nater-aide/EJPT/blob/main/Notes/WMAP.md)  
+
+### Client side attacks
