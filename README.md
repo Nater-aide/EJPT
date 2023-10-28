@@ -50,3 +50,5 @@
 
 ### Client side attacks
 [MSFvenom](https://github.com/Nater-aide/EJPT/blob/main/Notes/MSFvenom.md)  
+[Encoding Payloads](https://github.com/Nater-aide/EJPT/blob/main/Notes/Encoding_payload.md)  
+
