@@ -53,3 +53,6 @@
 [Encoding Payloads](https://github.com/Nater-aide/EJPT/blob/main/Notes/Encoding_payload.md)  
 [Injecting Payloads into Windows Executables](https://github.com/Nater-aide/EJPT/blob/main/Notes/Injecting_payloads.md)  
 [Resource Scipts](https://github.com/Nater-aide/EJPT/blob/main/Notes/Resource_scripts.md)  
+
+### Exploitation
+[Windows Exploitation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Windows_Exploitation.md)  
