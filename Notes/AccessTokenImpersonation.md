@@ -25,5 +25,5 @@ _After meterpreter session is established_
 **Potato attack**  
 This attack with generate an NT authority access token  
 
-Impersonate Tokens - Used to impersonate local system. Think non interactive login
+Impersonate Tokens - Used to impersonate local system. Think non interactive login  
 Delegate-Level tokens -- largest threat. Created through interactive logins
