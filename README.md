@@ -62,4 +62,5 @@
 [Meterpreter](https://github.com/Nater-aide/EJPT/blob/main/Notes/Meterpreter.md)  
 [Upgrading Shells](https://github.com/Nater-aide/EJPT/blob/main/Notes/Upgrading_shells.md)  
 [Windows Post exploitation modules](https://github.com/Nater-aide/EJPT/blob/main/Notes/Windows_post_exploitation.md)  
+[Bypassing UAC with MSF](https://github.com/Nater-aide/EJPT/blob/main/Notes/MSF_BypassingUAC.md)  
 
