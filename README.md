@@ -66,3 +66,4 @@
 [Windows Persistence](https://github.com/Nater-aide/EJPT/blob/main/Notes/WindowsPersistence.md)  
 [Enabling RDP](https://github.com/Nater-aide/EJPT/blob/main/Notes/EnablingRDP.md)  
 [Keylogging](https://github.com/Nater-aide/EJPT/blob/main/Notes/Keylogging.md)  
+[Clear Windows Logs](https://github.com/Nater-aide/EJPT/blob/main/Notes/Clearinglogs.md)  
