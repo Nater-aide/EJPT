@@ -71,3 +71,5 @@
 
 ### Linux Post Exploitation
 [Post exploitation modules](https://github.com/Nater-aide/EJPT/blob/main/Notes/PostLinux.md)  
+[Linux Privilege Escalation CHROOTKIT](https://github.com/Nater-aide/EJPT/blob/main/Notes/Linux_privesc.md)  
+
