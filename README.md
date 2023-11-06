@@ -70,3 +70,4 @@
 [Pivoting](https://github.com/Nater-aide/EJPT/blob/main/Notes/Pivoting.md)
 
 ### Linux Post Exploitation
+[Post exploitation modules](https://github.com/Nater-aide/EJPT/blob/main/Notes/PostLinux.md)  
