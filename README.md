@@ -58,7 +58,7 @@
 [Windows Exploitation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Windows_Exploitation.md)  
 [Linux Exploitation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Linux_Exploitation.md)  
 
-### Post Exploitation
+### Windows Post Exploitation
 [Meterpreter](https://github.com/Nater-aide/EJPT/blob/main/Notes/Meterpreter.md)  
 [Upgrading Shells](https://github.com/Nater-aide/EJPT/blob/main/Notes/Upgrading_shells.md)  
 [Windows Post exploitation modules](https://github.com/Nater-aide/EJPT/blob/main/Notes/Windows_post_exploitation.md)  
@@ -67,3 +67,6 @@
 [Enabling RDP](https://github.com/Nater-aide/EJPT/blob/main/Notes/EnablingRDP.md)  
 [Keylogging](https://github.com/Nater-aide/EJPT/blob/main/Notes/Keylogging.md)  
 [Clear Windows Logs](https://github.com/Nater-aide/EJPT/blob/main/Notes/Clearinglogs.md)  
+[Pivoting](https://github.com/Nater-aide/EJPT/blob/main/Notes/Pivoting.md)
+
+### Linux Post Exploitation
