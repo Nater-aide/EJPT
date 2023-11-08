@@ -79,3 +79,4 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Exploitation
+[Nmap Vuln Scripts](https://github.com/Nater-aide/EJPT/blob/main/Notes/Nmap_vuln_scripts.md)  
