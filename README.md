@@ -31,6 +31,7 @@
 [Expoiting SUID Binaries](https://github.com/Nater-aide/EJPT/blob/main/Notes/SUID_Binaries.md)  
 [Password Cracking in Linux](https://github.com/Nater-aide/EJPT/blob/main/Notes/Cracking_Hashes.md)  
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
 ## The Metasploit Framework
 
 [Metasploit](https://github.com/Nater-aide/EJPT/blob/main/Notes/Metasploit.md)  
@@ -75,3 +76,6 @@
 [Dumping Hashes in Linux](https://github.com/Nater-aide/EJPT/blob/main/Notes/Dumping_Hashes.md)  
 [Establishing Persistence](https://github.com/Nater-aide/EJPT/blob/main/Notes/Establishing_PersistenceLinux.md)  
 [Armitage](https://github.com/Nater-aide/EJPT/blob/main/Notes/Armitage.md)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+## Exploitation
