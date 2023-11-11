@@ -81,4 +81,5 @@
 ## Exploitation
 [Nmap Vuln Scripts](https://github.com/Nater-aide/EJPT/blob/main/Notes/Nmap_vuln_scripts.md)  
 [Searching Exploits/Searchsploit](https://github.com/Nater-aide/EJPT/blob/main/Notes/Searching_exploits.md)  
-[Compiling Exploits](https://github.com/Nater-aide/EJPT/blob/main/Notes/Compiling_exploits.md)
+[Compiling Exploits](https://github.com/Nater-aide/EJPT/blob/main/Notes/Compiling_exploits.md)  
+[Netcat](https://github.com/Nater-aide/EJPT/blob/main/Notes/Netcat.md)  
