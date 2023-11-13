@@ -83,3 +83,5 @@
 [Searching Exploits/Searchsploit](https://github.com/Nater-aide/EJPT/blob/main/Notes/Searching_exploits.md)  
 [Compiling Exploits](https://github.com/Nater-aide/EJPT/blob/main/Notes/Compiling_exploits.md)  
 [Netcat](https://github.com/Nater-aide/EJPT/blob/main/Notes/Netcat.md)  
+[Powershell Empire](https://github.com/Nater-aide/EJPT/blob/main/Notes/PowershellEmpire.md)  
+
