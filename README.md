@@ -30,6 +30,7 @@
 [Misconfigured Cron Jobs](https://github.com/Nater-aide/EJPT/blob/main/Notes/Misconfigured_Cron_Jobs.md)  
 [Expoiting SUID Binaries](https://github.com/Nater-aide/EJPT/blob/main/Notes/SUID_Binaries.md)  
 [Password Cracking in Linux](https://github.com/Nater-aide/EJPT/blob/main/Notes/Cracking_Hashes.md)  
+[VSFTPD](https://github.com/Nater-aide/EJPT/blob/main/Notes/VSFTPd.md)  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ## The Metasploit Framework
