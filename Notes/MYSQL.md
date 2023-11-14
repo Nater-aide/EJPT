@@ -44,3 +44,13 @@ Nmap scripts
 ```nmap (ip address) -p (port number) --script ms-sql-query --script-args mssql.username=admin,mssql.password=anamaria,ms-sql-query.query="SELECT * FROM master..syslogins" -oN output.txt```  
 ```nmap (ip address) -p (port number) --script ms-sql-dump-hashes --script-args mssql.username=admin,mssql.password=anamaria```  
 ```nmap (ip address) -p (port number) --script ms-sql-xp-cmdshell.cmd="type c:\flag.txt ```
+
+# Blackbox testing
+1. Check Searchsploit -- ```searchsploit mysql```
+2. use module **mysql_login**
+3. login -  ```mysql -u root -p (password) -h (Ip address)```
+4. show databases;
+5. search for files in the directories -- wamp, apps, www
+6. Check the wordpress>wp-config.php file for credentials
+7. phpmyadmin.config -- this file controls access
+
