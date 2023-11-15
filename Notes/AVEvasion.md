@@ -30,3 +30,15 @@ Install Wine -- ```sudo dpkg--add-architecture i386```
 **Launching**
 Folder -- /usr/share/windows-resources/shellter  
 ```sudo win shellter.exe```
+
+**Injecting**
+Try to inject into small executable such as winrar  
+/usr/share/windows-binaries  
+Program to use -- vncviewer.exe  
+Launch shellter -- ```sudo wine shellter.exe```  
+choose A for auto  
+Enter PE target -- path to executable  
+Enable stealth mode -- whether you want the executable to function as intended  
+Choose your payload - C=customer L=listed payload
+
+
