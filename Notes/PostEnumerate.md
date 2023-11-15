@@ -12,3 +12,5 @@ Get everything (from shell) -- ```systeminfo```
 
 Check c:\Windows\System32\eula.txt  
 This can provide information for the OS version and build number
+
+```wmic qfe get Caption,Description,HotFixID,InstalledOn``` -- enumerates list of installed updates in addition to hotfix URL
