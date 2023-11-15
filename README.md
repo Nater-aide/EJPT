@@ -87,3 +87,4 @@
 [Netcat](https://github.com/Nater-aide/EJPT/blob/main/Notes/Netcat.md)  
 [Powershell Empire](https://github.com/Nater-aide/EJPT/blob/main/Notes/PowershellEmpire.md)  
 [AV Evasion with Shellter](https://github.com/Nater-aide/EJPT/blob/main/Notes/AVEvasion.md)  
+[Obfuscation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Obfuscation.md)  
