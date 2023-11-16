@@ -52,4 +52,20 @@ Commands
 - netsh advfirewall firewall show -- displays firewall rule
 - netsh advfirewall firewall set -- can set fvalues for a rule
 - netsh advfirewall firewall dump -- shows config script
+
+# Enumerating Processes and Services
+**What are we looking for**  
+Running processes and services  
+Schedule Tasks
+
+**Commands**
+- ps - processes
+- pgreg explorer.exe -- tells you the process number
+  - Always try to migrate to explorer.exe
+From shell
+- net start -- gives you a list of services
+- wmic service list brief -- this displays a list of all running services
+- tasklist /SVC -- processes and services running under that service
+- schtasks /query fo/ LIST -- list out scheduled tasks
+- schtasks /query fo/ LIST /v --displays more information
 - 
