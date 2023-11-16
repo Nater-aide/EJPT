@@ -68,4 +68,3 @@ From shell
 - tasklist /SVC -- processes and services running under that service
 - schtasks /query fo/ LIST -- list out scheduled tasks
 - schtasks /query fo/ LIST /v --displays more information
-- 
