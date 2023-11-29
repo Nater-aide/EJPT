@@ -98,4 +98,5 @@
 [Python web server](https://github.com/Nater-aide/EJPT/blob/main/Notes/PythonWebsServer.md)  
 [Upgrading non interactive shells](https://github.com/Nater-aide/EJPT/blob/main/Notes/UpgradeNIShells.md)  
 
-
+## Escalation
+[Identifying Windows Vulnerabilities](
