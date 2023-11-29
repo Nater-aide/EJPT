@@ -92,6 +92,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Post Exploitation
 [Windows Post Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/PostEnumerate.md)  
-[Automated Post Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/AutomatedPostenum.md)
-[Linux Post Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/PostLinuxEnum.md)
+[Automated Post Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/AutomatedPostenum.md)  
+[Linux Post Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/PostLinuxEnum.md)  
+[Automating Post Enumeration Linux](https://github.com/Nater-aide/EJPT/blob/main/Notes/AutomatingLinuxPost.md)  
 
