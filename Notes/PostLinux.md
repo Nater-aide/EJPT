@@ -11,8 +11,8 @@ get shell
 
 ### Meterpreter
 - **post/linux/gather/enum_configs** -- retrieves linux config files
-- **post/multi/gather/env** -- 
-- **post/linux/gather/enum_network** -- 
+- **post/multi/gather/env** -- Gathers environment information
+- **post/linux/gather/enum_network** -- This enumerates Network information
 - **post/linux/gather/enum_protections** -- Gathers protection enumeration. This stores in notes. ```notes``` command shows you info you've gathered
 - **post/linux/gather/enum_system** -- system and user enumeration.
 - **post/linux/gather/checkcontainer** -- checks if this is a container 
