@@ -100,4 +100,5 @@
 
 ## Escalation
 [Identifying Windows Vulnerabilities](https://github.com/Nater-aide/EJPT/blob/main/Notes/WinPrivEsc.md)  
-[Linux Privilege Escalations](
+[Linux Privilege Escalations](https://github.com/Nater-aide/EJPT/edit/main/Notes/LinuxprivEsc.md)  
+
