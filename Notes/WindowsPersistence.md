@@ -23,3 +23,14 @@ You should immediately receive a meterpreter session
 3. login -- ```xfreerdp /u:username /p:password /v:(target IP)```
 
 # Persistence Va SSH keys
+1. ssh student@(IP address)
+2. type password
+
+The private key is always listed in the .ssh folder  
+named: id_rsa  
+
+Transfer
+1. scp student@(ip address):~/.ssh/id_rsa .
+2. type password
+3. chmod 400 id_rsa
+4. login with private key -- ```ssh -i id_rsa student@(ipaddress)```
