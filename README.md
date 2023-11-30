@@ -99,4 +99,5 @@
 [Upgrading non interactive shells](https://github.com/Nater-aide/EJPT/blob/main/Notes/UpgradeNIShells.md)  
 
 ## Escalation
-[Identifying Windows Vulnerabilities](
+[Identifying Windows Vulnerabilities](https://github.com/Nater-aide/EJPT/blob/main/Notes/WinPrivEsc.md)  
+[Linux Privilege Escalations](
