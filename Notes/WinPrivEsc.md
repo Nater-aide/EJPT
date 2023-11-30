@@ -17,3 +17,9 @@ Use shell to meterpreter
 
 Migrate to explorer.exe  
 Run the script using command from the github page -- ```powershell -ep bypass -c ". .\PrivescCheck.ps1; Invoke-PrivescCheck"```
+
+# Escalating Windows Privileges
+take the credentials received and run psexec  
+1. ```psexec.py Username@(IP)```  
+2. type password
+3. type whoami and it will tell you your privs
