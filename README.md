@@ -90,6 +90,7 @@
 [Obfuscation](https://github.com/Nater-aide/EJPT/blob/main/Notes/Obfuscation.md)  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Post Exploitation
 [Windows Post Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/PostEnumerate.md)  
 [Automated Post Enumeration](https://github.com/Nater-aide/EJPT/blob/main/Notes/AutomatedPostenum.md)  
@@ -102,6 +103,7 @@
 [Identifying Windows Vulnerabilities](https://github.com/Nater-aide/EJPT/blob/main/Notes/WinPrivEsc.md)  
 [Linux Privilege Escalations](https://github.com/Nater-aide/EJPT/edit/main/Notes/LinuxprivEsc.md)  
 [Clearing Tracks](https://github.com/Nater-aide/EJPT/blob/main/Notes/ClearingTracks.md)  
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # Web Application Penetration Testing
 [Burp Suite](https://github.com/Nater-aide/EJPT/blob/main/Notes/Burp.md)  
