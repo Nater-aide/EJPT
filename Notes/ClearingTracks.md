@@ -11,3 +11,8 @@ Some modules have resource scripts that will remove everything for you
 run resource script -- ```resource (path to the resource script)```
 
 ```clearev``` -- Deletes windows event logs
+# Clearing your tracks on Linux
+Linux machines may require more manual cleanup as opposed to resource scripts  
+Check the users .bash_history file
+
+If there, you can delete the content -- ```history -c``` or ```cat /dev/null > .bash_history```
