@@ -7,3 +7,12 @@
 5. Attack type -- Sniper
 6. Payloads -- add a wordlist
 7. Start attack
+
+### Passive Crawling
+1. Capture the get request
+2. Go to dashboard
+3. verify Live Passive Crawl from Proxy is enabled
+4. Turn off intercept
+5. Navigate the site
+6. Go to Target > Site Map
+7. This gives us a tree
