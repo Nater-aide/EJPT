@@ -16,3 +16,12 @@
 5. Navigate the site
 6. Go to Target > Site Map
 7. This gives us a tree
+
+### Attack basic authentication
+1. Intercept the login request
+2. Send to intruder
+3. Pick your position
+4. Set payloads -- wordlist
+5. Add a prefix -- ```admin:```
+6. Encode with Base64
+7. Start Attack
