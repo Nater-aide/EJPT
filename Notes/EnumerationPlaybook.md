@@ -6,3 +6,4 @@
 5. Whatweb
 6. Wappalyzer
 7. httrack -- this will copy an entire website -- ```sudo apt-get install webhttrack```
+8. Whois
