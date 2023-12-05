@@ -12,3 +12,5 @@ If there is a dav folder
 5. Update information within the shell to your host machine info using text editor
 6. make shell executable
 7. upload using the put command in FTP in the var/www/dav/ folder on the server
+
+Metasploit Module: **exploit/unix/ftp/vsftpd_234_backdoor**
