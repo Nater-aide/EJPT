@@ -107,5 +107,5 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # Web Application Penetration Testing
 [Burp Suite](https://github.com/Nater-aide/EJPT/blob/main/Notes/Burp.md)  
-
+[Wordpress](https://github.com/Nater-aide/EJPT/blob/main/Notes/Wordpress.md)  
 
