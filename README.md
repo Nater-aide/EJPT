@@ -1,6 +1,9 @@
 # EJPT
 ##Notes and commands cheat sheet for the EJPT##
 
+## Enumeration playbook
+[Enumeration Playbook](https://github.com/Nater-aide/EJPT/blob/main/Notes/EnumerationPlaybook.md)  
+
 ## System/Host Based Attacks  
 ### Exploiting Windows vulnerabilities
 [WebDav](https://github.com/Nater-aide/EJPT/blob/main/Notes/Webdav.md)  
