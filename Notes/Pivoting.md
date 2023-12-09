@@ -7,7 +7,8 @@ Gaining access to a system on an internal network using a different machine you 
 4. Use portscan module to scan for open ports on the target
    - Module: **auxiliary/scanner/portscan/tcp**
 5. set RHOSTS to victim2
-6. run
+6. For faster scan, set ports from 1-100
+7. run
 
 Forward port 80
 1. Go to session 1
