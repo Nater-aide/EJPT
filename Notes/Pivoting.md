@@ -2,7 +2,7 @@
 Gaining access to a system on an internal network using a different machine you have access to.  
 
 1. Copy the IP address of the victim1 interface
-2. Add a route with meterpreter -- ```run autoroute -s (IP address subnet range, example 192.168.1.0)/subnet```
+2. Add a route with meterpreter -- ```run autoroute -s (IP address subnet range, example 192.168.1.0)/subnet(the lab uses /20)```
 3. Background meterpreter session
 4. Use portscan module to scan for open ports on the target
    - Module: **auxiliary/scanner/portscan/tcp**
