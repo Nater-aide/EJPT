@@ -3,11 +3,7 @@
 2. copy the error message that is received
 3. Go to the page source and check into the data below
 
-```hydra -L usernames -P passwords 
-192.208.137.3
- http-post-form"/login.php:login=^USER^&password=^PASS^&security_level=0&form=submit:Invalid credentials or user not activated!"```
-
-https://assets.ine.com/labs/ad-manuals/walkthrough-1895.pdf
+```hydra -L usernames -P passwords 192.208.137.3 http-post-form"/login.php:login=^USER^&password=^PASS^&security_level=0&form=submit:Invalid credentials or user not activated!"```  
 
 # Brute Force HTTP login form with OWASP-ZAP
 1. Launch Owasp-Zap
