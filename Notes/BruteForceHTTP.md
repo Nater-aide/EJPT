@@ -30,4 +30,8 @@ assets.ine.com
 11. Add your payload (usernames or username list)
 12. Do the same for the Password
 13. Start Fuzzer
-14. Check for any 302 codes.
+14. Check for any 302 codes.  
+[Attacking HTTP Login Form with ZAProxy.pdf](https://
+github.com
+/Nater-aide/EJPT/files/13626286/Attacking.HTTP.Login.Form.with.ZAProxy.pdf)
+
