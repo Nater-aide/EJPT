@@ -1,3 +1,4 @@
+![ejpt certification_231212_211759](https://github.com/Nater-aide/EJPT/assets/143526926/2b8f8d4b-f818-48d5-b1f1-b3e30859d128)  
 # EJPT
 ##Notes and commands cheat sheet for the EJPT##
 
